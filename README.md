@@ -18,12 +18,10 @@
 - **홈화면 디자인 및 구현**: Bootstrap을 활용하여 반응형 웹 디자인 구현, 이미지 캐러셀 추가, 다크 테마 적용 및 사용자 로그인/로그아웃 기능 강화.
 
 ## 분석 결과
-![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/139180e8-3a67-42b1-86f7-e359cb097990/123764e8-e49d-40ad-bcbd-cd5307b87dfa/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-08-18_015031.png)
+![스크린샷 2024-08-18 015031](https://github.com/user-attachments/assets/60a28b6e-1536-47f1-90e6-b7777d4bd24a)
+![스크린샷 2024-08-18 015000](https://github.com/user-attachments/assets/640a005c-3772-4e34-8005-49129f3f2a3f)
+![스크린샷 2024-08-18 003728](https://github.com/user-attachments/assets/a4d208e2-1fdf-4cd5-81c8-b91b4444f6d2)
 
-
-![스크린샷 2024-08-18 015000.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/139180e8-3a67-42b1-86f7-e359cb097990/cd23bac9-188d-49da-a38f-7c44fae903ed/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-08-18_015000.png)
-
-![스크린샷 2024-08-18 003728.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/139180e8-3a67-42b1-86f7-e359cb097990/30d8768b-3e24-47f2-8c1b-994ea378fbe6/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-08-18_003728.png)
 - 효율적인 벡터 데이터베이스 검색 기능을 통해 사용자 질문에 대한 빠른 응답 제공.
 - 관리자 기능을 통해 데이터베이스 및 사용자 질문/답변을 직관적으로 관리 가능.
 - 직관적이고 사용자 친화적인 홈화면 디자인으로 사용자 만족도 향상.
